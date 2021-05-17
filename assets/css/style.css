@@ -4,6 +4,7 @@ body {
 }
 
 a {
+  font-family: "Roboto";
   color: #3e425f;
   text-decoration: none;
 }
@@ -19,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -79,7 +80,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5c5e5f;
+  background: #3e425f;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -93,7 +94,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #6bc1e9;
+  background: #3e425f;
   color: #fff;
 }
 
@@ -411,7 +412,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #3e425f;
 }
 
 #hero .btn-watch-video {
